@@ -1,0 +1,6 @@
+C:\Users\sirli\OneDrive\Desktop\Proyectss\SistemaAcademicoUNuevaVida\SistemaAcademicoUNuevaVida\obj\Debug\net10.0-windows\SistemaAcademicoUNuevaVida.Form1.resources
+C:\Users\sirli\OneDrive\Desktop\Proyectss\SistemaAcademicoUNuevaVida\SistemaAcademicoUNuevaVida\obj\Debug\net10.0-windows\SistemaAcademicoUNuevaVida.csproj.GenerateResource.cache
+C:\Users\sirli\OneDrive\Desktop\Proyectss\SistemaAcademicoUNuevaVida\SistemaAcademicoUNuevaVida\obj\Debug\net10.0-windows\SistemaAcademicoUNuevaVida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sirli\OneDrive\Desktop\Proyectss\SistemaAcademicoUNuevaVida\SistemaAcademicoUNuevaVida\obj\Debug\net10.0-windows\SistemaAcademicoUNuevaVida.AssemblyInfoInputs.cache
+C:\Users\sirli\OneDrive\Desktop\Proyectss\SistemaAcademicoUNuevaVida\SistemaAcademicoUNuevaVida\obj\Debug\net10.0-windows\SistemaAcademicoUNuevaVida.AssemblyInfo.cs
+C:\Users\sirli\OneDrive\Desktop\Proyectss\SistemaAcademicoUNuevaVida\SistemaAcademicoUNuevaVida\obj\Debug\net10.0-windows\SistemaAcademicoUNuevaVida.csproj.CoreCompileInputs.cache

@@ -1,0 +1,24 @@
+﻿{
+  "$id": "1",
+  "Estudiantes": {
+    "$id": "2",
+    "$values": []
+  },
+  "Docentes": {
+    "$id": "3",
+    "$values": []
+  },
+  "Materias": {
+    "$id": "4",
+    "$values": []
+  },
+  "Inscripciones": {
+    "$id": "5",
+    "$values": []
+  },
+  "Calificaciones": {
+    "$id": "6",
+    "$values": []
+  },
+  "UltimoGuardado": "2026-03-01T23:18:38.9438254-05:00"
+}
