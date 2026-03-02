@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sirli\\OneDrive\\Desktop\\Proyectss\\SistemaAcademicoUNuevaVida\\SistemaAcademicoUNuevaVida\\SistemaAcademicoUNuevaVida.csproj",
+      "projectUniqueName": "C:\\carpet\\SistemaAcademicoUNuevaVida\\SistemaAcademicoUNuevaVida\\SistemaAcademicoUNuevaVida\\SistemaAcademicoUNuevaVida.csproj",
       "projectName": "SistemaAcademicoUNuevaVida",
-      "projectPath": "C:\\Users\\sirli\\OneDrive\\Desktop\\Proyectss\\SistemaAcademicoUNuevaVida\\SistemaAcademicoUNuevaVida\\SistemaAcademicoUNuevaVida.csproj",
+      "projectPath": "C:\\carpet\\SistemaAcademicoUNuevaVida\\SistemaAcademicoUNuevaVida\\SistemaAcademicoUNuevaVida\\SistemaAcademicoUNuevaVida.csproj",
       "packagesPath": "C:\\Users\\sirli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sirli\\OneDrive\\Desktop\\Proyectss\\SistemaAcademicoUNuevaVida\\SistemaAcademicoUNuevaVida\\obj\\",
+      "outputPath": "C:\\carpet\\SistemaAcademicoUNuevaVida\\SistemaAcademicoUNuevaVida\\SistemaAcademicoUNuevaVida\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
