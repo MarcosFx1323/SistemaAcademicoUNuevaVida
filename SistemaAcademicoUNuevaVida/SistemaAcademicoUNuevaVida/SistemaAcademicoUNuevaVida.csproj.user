@@ -4,26 +4,5 @@
     <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Forms\CalificacionForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="Forms\DocenteForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="Forms\EstudianteForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="Forms\InscripcionForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="Forms\MainForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="Forms\MateriaForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="Forms\ReporteForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
   </ItemGroup>
 </Project>
